@@ -1,0 +1,36 @@
+
+CREATE TABLE dce5th(
+    firstname varchar(20) NOT null,
+    middlename varchar(25),
+    lastname varchar(25) NOT null,
+    rollno varchar(10) NOT null,
+    PRIMARY KEY(rollno)
+    );
+
+INSERT INTO `dce5th`(`firstname`, `middlename`, `lastname`, `rollno`) VALUES ('Manzil','','Pokhrel','A22DCE-17');
+INSERT INTO `dce5th`(`firstname`, `middlename`, `lastname`, `rollno`) VALUES ('Priyanshu','Kumar','Gupta','A22DCE-20');
+INSERT INTO `dce5th`(`firstname`, `middlename`, `lastname`, `rollno`) VALUES ('Vansh','','Gangahari','A22DCE-34');
+INSERT INTO `dce5th`(`firstname`, `middlename`, `lastname`, `rollno`) VALUES ('Aanubesh','Karki','(Chettri)','A23DCE01');
+INSERT INTO `dce5th`(`firstname`, `middlename`, `lastname`, `rollno`) VALUES ('Ali','','Ahmed','A23DCE02');
+INSERT INTO `dce5th`(`firstname`, `middlename`, `lastname`, `rollno`) VALUES ('Dichen','Lamu','Sherpa','A23DCE06');
+INSERT INTO `dce5th`(`firstname`, `middlename`, `lastname`, `rollno`) VALUES ('Ayush','','Chettri','A23DCE08');
+INSERT INTO `dce5th`(`firstname`, `middlename`, `lastname`, `rollno`) VALUES ('Dawa','Lhamu','Sherpa','A23DCE09');
+INSERT INTO `dce5th`(`firstname`, `middlename`, `lastname`, `rollno`) VALUES ('Deep','','Karmakar','A23DCE10');
+INSERT INTO `dce5th`(`firstname`, `middlename`, `lastname`, `rollno`) VALUES ('Diwash','','Tiwari','A23DCE11');
+INSERT INTO `dce5th`(`firstname`, `middlename`, `lastname`, `rollno`) VALUES ('Jameson','Pritam','Chettri','A23DCE13');
+INSERT INTO `dce5th`(`firstname`, `middlename`, `lastname`, `rollno`) VALUES ('Kunzong','','Bhutia','A23DCE15');
+INSERT INTO `dce5th`(`firstname`, `middlename`, `lastname`, `rollno`) VALUES ('Nisha','','Rai','A23DCE20');
+INSERT INTO `dce5th`(`firstname`, `middlename`, `lastname`, `rollno`) VALUES ('Pramila','','Chettri','A23DCE21');
+INSERT INTO `dce5th`(`firstname`, `middlename`, `lastname`, `rollno`) VALUES ('Pawan','Kumar','Gupta','A23DCE22');
+INSERT INTO `dce5th`(`firstname`, `middlename`, `lastname`, `rollno`) VALUES ('Prachi','','Sharma','A23DCE23');
+INSERT INTO `dce5th`(`firstname`, `middlename`, `lastname`, `rollno`) VALUES ('Reecha','','Gurung','A23DCE25');
+INSERT INTO `dce5th`(`firstname`, `middlename`, `lastname`, `rollno`) VALUES ('Shalisa','','Pradhan','A23DCE27');
+INSERT INTO `dce5th`(`firstname`, `middlename`, `lastname`, `rollno`) VALUES ('Siddharth','','Gurung','A23DCE29');
+INSERT INTO `dce5th`(`firstname`, `middlename`, `lastname`, `rollno`) VALUES ('Sonam','Dorjee','Tamang','A23DCE33');
+INSERT INTO `dce5th`(`firstname`, `middlename`, `lastname`, `rollno`) VALUES ('Suk','Lhamu','Sherpa','A23DCE34');
+INSERT INTO `dce5th`(`firstname`, `middlename`, `lastname`, `rollno`) VALUES ('Vavna','','Rai','A23DCE38');
+INSERT INTO `dce5th`(`firstname`, `middlename`, `lastname`, `rollno`) VALUES ('Yam','Kumari','Chettri','A23DCE39');
+INSERT INTO `dce5th`(`firstname`, `middlename`, `lastname`, `rollno`) VALUES ('Sandesh','','Giri','A23DCE42');
+INSERT INTO `dce5th`(`firstname`, `middlename`, `lastname`, `rollno`) VALUES ('Karma','Chemey','Sherpa','A23DCE43');
+INSERT INTO `dce5th`(`firstname`, `middlename`, `lastname`, `rollno`) VALUES ('Tshering','Palzor','Bhutia','A23DCE44');
+INSERT INTO `dce5th`(`firstname`, `middlename`, `lastname`, `rollno`) VALUES ('Durga','Nand','Choudhary','A24DCE-L03');
